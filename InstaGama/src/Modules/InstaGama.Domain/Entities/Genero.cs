@@ -16,7 +16,7 @@ namespace InstaGama.Domain.Entities
         public string Descricao { get; private set; }
 
         //Verificando se é diferente de branco ou nulo
-        public bool seValido()
+        public bool SeValido()
         {
             bool valido = true;
 
