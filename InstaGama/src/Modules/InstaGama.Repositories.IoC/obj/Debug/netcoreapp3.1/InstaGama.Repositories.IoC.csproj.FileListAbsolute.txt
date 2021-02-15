@@ -1,0 +1,5 @@
+C:\Users\marci\Documents\Arquivos Pessoais\AA_PROGRAMACAO\GamaAcademy\InstaGama\InstaGama\src\Modules\InstaGama.Repositories.IoC\bin\Debug\netcoreapp3.1\InstaGama.Repositories.IoC.deps.json
+C:\Users\marci\Documents\Arquivos Pessoais\AA_PROGRAMACAO\GamaAcademy\InstaGama\InstaGama\src\Modules\InstaGama.Repositories.IoC\bin\Debug\netcoreapp3.1\InstaGama.Repositories.IoC.dll
+C:\Users\marci\Documents\Arquivos Pessoais\AA_PROGRAMACAO\GamaAcademy\InstaGama\InstaGama\src\Modules\InstaGama.Repositories.IoC\obj\Debug\netcoreapp3.1\InstaGama.Repositories.IoC.csprojAssemblyReference.cache
+C:\Users\marci\Documents\Arquivos Pessoais\AA_PROGRAMACAO\GamaAcademy\InstaGama\InstaGama\src\Modules\InstaGama.Repositories.IoC\obj\Debug\netcoreapp3.1\InstaGama.Repositories.IoC.AssemblyInfoInputs.cache
+C:\Users\marci\Documents\Arquivos Pessoais\AA_PROGRAMACAO\GamaAcademy\InstaGama\InstaGama\src\Modules\InstaGama.Repositories.IoC\obj\Debug\netcoreapp3.1\InstaGama.Repositories.IoC.AssemblyInfo.cs

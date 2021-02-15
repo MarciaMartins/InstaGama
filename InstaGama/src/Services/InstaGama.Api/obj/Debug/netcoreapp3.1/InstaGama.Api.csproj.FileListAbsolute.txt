@@ -1,0 +1,10 @@
+C:\Users\marci\Documents\Arquivos Pessoais\AA_PROGRAMACAO\GamaAcademy\InstaGama\InstaGama\src\Services\InstaGama.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marci\Documents\Arquivos Pessoais\AA_PROGRAMACAO\GamaAcademy\InstaGama\InstaGama\src\Services\InstaGama.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marci\Documents\Arquivos Pessoais\AA_PROGRAMACAO\GamaAcademy\InstaGama\InstaGama\src\Services\InstaGama.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\marci\Documents\Arquivos Pessoais\AA_PROGRAMACAO\GamaAcademy\InstaGama\InstaGama\src\Services\InstaGama.Api\bin\Debug\netcoreapp3.1\InstaGama.Api.exe
+C:\Users\marci\Documents\Arquivos Pessoais\AA_PROGRAMACAO\GamaAcademy\InstaGama\InstaGama\src\Services\InstaGama.Api\obj\Debug\netcoreapp3.1\InstaGama.Api.csprojAssemblyReference.cache
+C:\Users\marci\Documents\Arquivos Pessoais\AA_PROGRAMACAO\GamaAcademy\InstaGama\InstaGama\src\Services\InstaGama.Api\obj\Debug\netcoreapp3.1\InstaGama.Api.AssemblyInfoInputs.cache
+C:\Users\marci\Documents\Arquivos Pessoais\AA_PROGRAMACAO\GamaAcademy\InstaGama\InstaGama\src\Services\InstaGama.Api\obj\Debug\netcoreapp3.1\InstaGama.Api.AssemblyInfo.cs
+C:\Users\marci\Documents\Arquivos Pessoais\AA_PROGRAMACAO\GamaAcademy\InstaGama\InstaGama\src\Services\InstaGama.Api\obj\Debug\netcoreapp3.1\InstaGama.Api.RazorTargetAssemblyInfo.cache
+C:\Users\marci\Documents\Arquivos Pessoais\AA_PROGRAMACAO\GamaAcademy\InstaGama\InstaGama\src\Services\InstaGama.Api\obj\Debug\netcoreapp3.1\staticwebassets\InstaGama.Api.StaticWebAssets.Manifest.cache
+C:\Users\marci\Documents\Arquivos Pessoais\AA_PROGRAMACAO\GamaAcademy\InstaGama\InstaGama\src\Services\InstaGama.Api\obj\Debug\netcoreapp3.1\staticwebassets\InstaGama.Api.StaticWebAssets.xml

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0UEFS+cDq4RdGaA++mlWOLuGKMjrvj9WNsOlzpmmroGMfu+ORRmvFSsSRxHoz80oWXsC20AHi1tnds8l2mTlug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Services\\InstaGama.Api\\InstaGama.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

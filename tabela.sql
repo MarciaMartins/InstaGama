@@ -1,4 +1,4 @@
---CREATE DATABASE Instagama;
+﻿CREATE DATABASE Instagama;
 USE Instagama;
 --Criação do Database
 
@@ -76,17 +76,39 @@ CREATE TABLE dbo.Amigos(
 	UsuarioId int NOT NULL,
 	UsuarioAmigoId int NOT NULL,
 	CONSTRAINT PK_Amigos_Id PRIMARY KEY CLUSTERED (Id),
-	CONSTRAINT FK_Amigos_Usuario FOREIGN KEY (UsuarioAmigoId)
-      REFERENCES dbo.Usuario (Id)
-)
-
-CREATE TABLE dbo.Amigos(
-	Id int IDENTITY(1,1) NOT NULL,
-	UsuarioId int NOT NULL,
-	UsuarioAmigoId int NOT NULL,
-	CONSTRAINT PK_Amigos_Id PRIMARY KEY CLUSTERED (Id),
 	CONSTRAINT FK_Amigos_Usuario_Amigo FOREIGN KEY (UsuarioAmigoId)
       REFERENCES dbo.Usuario (Id),
     CONSTRAINT FK_Amigos_Usuario FOREIGN KEY (UsuarioId)
         REFERENCES dbo.Usuario (Id)
 )
+
+INSERT INTO Genero VALUES ('feminino');
+INSERT INTO Usuario VALUES (1, '01 Usuario', '01email@gmail.', '123', '2020-01-02', ' ');
+INSERT INTO Usuario VALUES (1, '02 Usuario', '02email@gmail.', '123', '2020-01-02', ' ');
+INSERT INTO Usuario VALUES (1, '03 Usuario', '03email@gmail.', '123', '2020-01-02', ' ');
+
+SELECT * FROM Usuario; 
+
+SELECT u.Id, u.Nome, g.Descricao
+FROM Usuario U
+INNER JOIN Genero g
+on g.id = u.GeneroId; 
+
+
+SELECT * FROM Amigos;
+INSERT INTO Amigos (UsuarioId, UsuarioAmigoId)
+VALUES (1,2);
+INSERT INTO Amigos (UsuarioId, UsuarioAmigoId)
+VALUES (1,3);
+
+SELECT a.UsuarioId, a.UsuarioAmigoId, u.Nome  
+FROM Amigos a
+	INNER JOIN Usuario u
+ON a.UsuarioAmigoId = u.Id
+WHERE a.UsuarioId=1; 
+
+SELECT a.UsuarioId, a.UsuarioAmigoId 
+FROM Amigos a
+WHERE a.UsuarioId=1;  
+
+
