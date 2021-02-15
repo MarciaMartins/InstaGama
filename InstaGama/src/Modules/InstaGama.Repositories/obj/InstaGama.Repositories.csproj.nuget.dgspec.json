@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jr-al\\Desktop\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj": {}
+    "C:\\Users\\karol\\OneDrive\\Documentos\\projeto\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj": {}
   },
   "projects": {
     "C:\\Users\\jr-al\\Desktop\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj": {
@@ -65,17 +65,17 @@
     "C:\\Users\\jr-al\\Desktop\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jr-al\\Desktop\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\karol\\OneDrive\\Documentos\\projeto\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj",
         "projectName": "InstaGama.Repositories",
-        "projectPath": "C:\\Users\\jr-al\\Desktop\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj",
-        "packagesPath": "C:\\Users\\jr-al\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jr-al\\Desktop\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories\\obj\\",
+        "projectPath": "C:\\Users\\karol\\OneDrive\\Documentos\\projeto\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj",
+        "packagesPath": "C:\\Users\\karol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karol\\OneDrive\\Documentos\\projeto\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\jr-al\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -126,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
