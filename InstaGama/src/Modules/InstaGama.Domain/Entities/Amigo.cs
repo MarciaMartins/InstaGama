@@ -6,14 +6,15 @@ namespace InstaGama.Domain.Entities
 {
     public class Amigo
     {
-        public Amigo(UsuarioId usuarioId, UsuarioAmigoId usuarioAmigoId){
+        public Amigo(int usuarioId, int usuarioAmigoId){
             UsuarioId=usuarioId;
             UsuarioAmigoId=usuarioAmigoId;
         }
-       
+
+        
         public int Id { get; private set; }
-	    public UsuarioId UsuarioId { get; private set; }
-	    public UsuarioAmigoId UsuarioAmigoId { get; private set; }
+	    public int UsuarioId { get; private set; }
+	    public int UsuarioAmigoId { get; private set; }
     
         
         public void SetId(int id)
