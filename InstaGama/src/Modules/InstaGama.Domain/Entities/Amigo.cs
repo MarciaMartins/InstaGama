@@ -20,6 +20,16 @@ namespace InstaGama.Domain.Entities
         public void SetId(int id)
         {
             Id = id;
-        }    
-    }    
+        }
+
+        public bool IsValid(int UsuarioAmigoId)
+        {
+            if (UsuarioAmigoId == null)
+            {
+                return false;
+            }
+            else return true;
+        }
+
+     }
 }

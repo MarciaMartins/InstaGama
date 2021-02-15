@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "G8B0gMDw4QiHjQjwJQ82CrRaCbzpz4q+at/Q7/A1MvllaqAP4WlFgkhjuwXhNBc+CaqdEWQ/oJEp8c4fIRBKQA==",
+  "dgSpecHash": "7OcyZpgvtlzbR25o30RenKLhWDIYoPs+JDeEx9vGxjodYl3BiPXVY6qHP5qBUtbxbMncEFtF55tYF8Ojtm/ANQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.11\\microsoft.extensions.configuration.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.11\\microsoft.extensions.primitives.3.1.11.nupkg.sha512",
     "C:\\Users\\marci\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\marci\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\marci\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",

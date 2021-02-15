@@ -6,18 +6,25 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
-
-
+using Microsoft.Extensions.Configuration;
 
 namespace InstaGama.Repositories
 {
-    class AmigoRepository : IAmigoRepository
+    public class AmigoRepository : IAmigoRepository
     {
+        private readonly IConfiguration _configuration;
+
+        public AmigoRepository(IConfiguration configuration)
+        {
+            _configuration = configuration;
+
+        }
+
 
         //inserir um vinculo de amigo
         public async Task<int> InsertAsync(Amigo amigo)
         {
-            using (var con = new SqlConnection(""))
+            using (var con = new SqlConnection(_configuration["ConnectionString"]))
             {
                 
                 var sqlCmd = @"INSERT INTO
@@ -49,7 +56,7 @@ namespace InstaGama.Repositories
         //retornar uma lista de amigos
         public async Task<List<Amigo>> GetListaAmigoByUsuarioIdAsync(int usuarioId)
         {
-            using (var con = new SqlConnection(""))
+            using (var con = new SqlConnection(_configuration["ConnectionString"]))
             {
                 //comando de retorno de todos os amigos pelo Id do Usuario principal
                 var sqlCmd = @$"SELECT a.UsuarioId, a.UsuarioAmigoId 
