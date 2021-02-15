@@ -10,5 +10,9 @@ namespace InstaGama.Domain.Interfaces
     public interface IUsuarioRepository
     {
         Task<int> InserirAsync(Usuario  usuario);
+
+        Task<Usuario> GetByLoginAsync(string login);
+
+        Task<Usuario> GetById(int id);
     }
 }
