@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hCuicCV2mmNEhwYqWEP64C135zZXCzNQb2d070uXB46annZ2xcxKAwNYEAPsznQ1UOz1nbk9uaBH5AxSQXrF8Q==",
+  "dgSpecHash": "hvdRV9is0O/ObSsbeOGNxjuwP3V/nbxiGxjYxvLzcxo4CyKoiLPs/rfNTtRbnOqFmk8qBbR94bZT7tY5pTMD/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj",
+  "projectFilePath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

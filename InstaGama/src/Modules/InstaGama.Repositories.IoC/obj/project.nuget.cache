@@ -1,22 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zar1uj4KWuge2KrT1EzSqNIwMfosSUmwoloFAp+/mo2B706fvH0gRg0pnHBGmkYH1ArOcGOFcSt7TqPhw6d84Q==",
+  "dgSpecHash": "UPviXBX3R7jbUd442U4dZ+/ahhprE2FzjzPVIE86Nsn+1XwzXUxpp/OlKcHKLejCRrUMQrWlj8vGTkvgcPAK4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories.IoC\\InstaGama.Repositories.IoC.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\marci\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.11\\microsoft.extensions.configuration.abstractions.3.1.11.nupkg.sha512",
-    "C:\\Users\\marci\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\marci\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.11\\microsoft.extensions.primitives.3.1.11.nupkg.sha512",
-    "C:\\Users\\marci\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
-    "C:\\Users\\marci\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
-    "C:\\Users\\marci\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
-    "C:\\Users\\marci\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
-    "C:\\Users\\marci\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\marci\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\marci\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\marci\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
-    "C:\\Users\\marci\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
-    "C:\\Users\\marci\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Repositories.IoC\\InstaGama.Repositories.IoC.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

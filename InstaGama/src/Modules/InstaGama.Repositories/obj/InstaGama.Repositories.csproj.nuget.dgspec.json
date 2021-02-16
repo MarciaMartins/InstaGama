@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj": {}
+    "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj": {
+    "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj",
         "projectName": "InstaGama.Domain",
-        "projectPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj",
+        "projectPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj",
         "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Domain\\obj\\",
+        "outputPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj": {
+    "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj",
         "projectName": "InstaGama.Repositories",
-        "projectPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj",
+        "projectPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Repositories\\InstaGama.Repositories.csproj",
         "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Repositories\\obj\\",
+        "outputPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj": {
-                "projectPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj"
+              "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj": {
+                "projectPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj"
               }
             }
           }
@@ -94,10 +94,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.Extensions.Configuration.Abstractions": {
-              "target": "Package",
-              "version": "[3.1.11, )"
-            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.2, )"

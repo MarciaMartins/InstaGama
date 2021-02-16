@@ -8,29 +8,6 @@
           "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props": {},
           "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets": {}
         }
-      },
-      "InstaGama.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "InstaGama.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/InstaGama.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/InstaGama.Application.dll": {}
-        }
-      },
-      "InstaGama.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/InstaGama.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/InstaGama.Domain.dll": {}
-        }
       }
     }
   },
@@ -98,21 +75,10 @@
         "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
         "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll"
       ]
-    },
-    "InstaGama.Application/1.0.0": {
-      "type": "project",
-      "path": "../../Modules/InstaGama.Application/InstaGama.Application.csproj",
-      "msbuildProject": "../../Modules/InstaGama.Application/InstaGama.Application.csproj"
-    },
-    "InstaGama.Domain/1.0.0": {
-      "type": "project",
-      "path": "../../Modules/InstaGama.Domain/InstaGama.Domain.csproj",
-      "msbuildProject": "../../Modules/InstaGama.Domain/InstaGama.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "InstaGama.Application >= 1.0.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.9"
     ]
   },
@@ -122,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Services\\InstaGama.Api\\InstaGama.Api.csproj",
+      "projectUniqueName": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Services\\InstaGama.Api\\InstaGama.Api.csproj",
       "projectName": "InstaGama.Api",
-      "projectPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Services\\InstaGama.Api\\InstaGama.Api.csproj",
+      "projectPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Services\\InstaGama.Api\\InstaGama.Api.csproj",
       "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Services\\InstaGama.Api\\obj\\",
+      "outputPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Services\\InstaGama.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -141,11 +107,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Application\\InstaGama.Application.csproj": {
-              "projectPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Application\\InstaGama.Application.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

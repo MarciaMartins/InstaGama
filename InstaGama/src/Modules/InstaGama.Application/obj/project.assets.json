@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Application\\InstaGama.Application.csproj",
+      "projectUniqueName": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Application\\InstaGama.Application.csproj",
       "projectName": "InstaGama.Application",
-      "projectPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Application\\InstaGama.Application.csproj",
+      "projectPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Application\\InstaGama.Application.csproj",
       "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Application\\obj\\",
+      "outputPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj": {
-              "projectPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\InstaGama\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj"
+            "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj": {
+              "projectPath": "C:\\Users\\marci\\Documents\\Arquivos Pessoais\\AA_PROGRAMACAO\\GamaAcademy\\ProjetoPessoa\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj"
             }
           }
         }
